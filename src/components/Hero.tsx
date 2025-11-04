@@ -20,7 +20,7 @@ const Hero = () => {
             Pratyukt Mohapatra
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground max-w-3xl mx-auto">
-            DevOps / Cloud Engineer | Automating Complexity, Building Scalable Solutions
+            DevOps and Cloud Engineer | Automating Complexity, Building Scalable Solutions
           </p>
           <div className="pt-4">
             <Button 
