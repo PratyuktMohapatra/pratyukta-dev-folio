@@ -17,7 +17,7 @@ const Hero = () => {
       <div className="container mx-auto px-6 relative z-10">
         <div className="text-center space-y-8 animate-fade-in">
           <h1 className="text-5xl md:text-7xl font-bold text-foreground">
-            Pratyukt Mohapatra
+            PRATYUKT MOHAPATRA
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground max-w-3xl mx-auto">
             DevOps and Cloud Engineer | Automating Complexity, Building Scalable Solutions
