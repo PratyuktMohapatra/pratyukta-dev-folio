@@ -45,7 +45,7 @@ const Navigation = () => {
     }`}>
       <div className="container mx-auto px-6">
         <div className="flex items-center justify-between h-16">
-          <div className="text-xl font-bold text-foreground">PM</div>
+          <div className="text-xl font-bold text-foreground">DevOps</div>
           
           <div className="hidden md:flex items-center gap-1">
             {navItems.map((item) => (
