@@ -54,3 +54,25 @@ All colors MUST be HSL.
     @apply bg-background text-foreground;
   }
 }
+
+###################################################################
+
+@keyframes moveGradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* Animated gradient background for hero section */
+.hero-section {
+  background: linear-gradient(-45deg, hsl(260 30% 8%), hsl(270 60% 15%), hsl(280 90% 65%), hsl(270 70% 50%));
+  background-size: 400% 400%;
+  animation: moveGradient 10s ease infinite;
+}
+
