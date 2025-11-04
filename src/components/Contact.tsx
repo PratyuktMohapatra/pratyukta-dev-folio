@@ -96,7 +96,7 @@ const Contact = () => {
               <h3 className="text-xl font-semibold text-foreground mb-4">Social Links</h3>
               <div className="flex gap-4">
                 <a 
-                  href="linkedin.com/in/pratyukt-mohapatra-245304277"
+                  href="https://www.linkedin.com/in/pratyukt-mohapatra-245304277/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 bg-card border border-border rounded-lg hover:border-accent hover:shadow-glow transition-all duration-300"
